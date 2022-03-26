@@ -7,7 +7,7 @@ Please upload an image of this visual using a widely accessible graphic format (
 
 ##Chilean president use disproportionate bar to talk about delinquency
 
-![Chilean president use disproportionate bar to talk about delinquency](/images/0EEB2A22-DFF6-4E75-A4F3-E2421D6095F4.png)
+![Chilean president use disproportionate bar to talk about delinquency](images/0EEB2A22-DFF6-4E75-A4F3-E2421D6095F4.png)
 
 / Use of 3 distorting data through visual form. Source Https://viz.wtf
 
